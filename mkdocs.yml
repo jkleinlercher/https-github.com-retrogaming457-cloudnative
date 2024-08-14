@@ -1,0 +1,8 @@
+site_name: "cloudnative"
+site_description: "CloudNative Documentation"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
